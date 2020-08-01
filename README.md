@@ -1,4 +1,4 @@
-### Hemlo world! 
+### Hemlo world!  👋 🌎
 
 <!--
 **cherylcline/cherylcline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
