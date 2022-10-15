@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cheryl Cline</h1>
 <h3 align="center">A UX writer and editor based in Los Angeles</h3>
 
-- 🔭 I’m currently working on **freelance projects**
+- 🔭 I’m currently working on **freelance projects and finding my next gig**
 
-- 👨‍💻 All of my projects are available at [cheryl-cline.com](cheryl-cline.com)
+- 👨‍💻 View my writing samples at [cheryl-cline.com](cheryl-cline.com)
 
 - ⚡ Fun fact: **I do standup!**
 
