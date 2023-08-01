@@ -5,8 +5,6 @@
 
 - 👨‍💻 View my writing samples at [cheryl-cline.com](cheryl-cline.com)
 
-- ⚡ Fun fact: **I do standup!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/clinecheryl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clinecheryl" height="30" width="40" /></a>
