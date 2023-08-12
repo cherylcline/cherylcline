@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cheryl Cline</h1>
 <h3 align="center">A UX writer and editor based in Los Angeles</h3>
 
-- 🔭 I’m currently working on **freelance projects and finding my next gig**
+- 🔭 I’m currently a content designer at [Expunge Assist](https://expungeassist.org/#/)
 
 - 👨‍💻 View my writing samples at [cheryl-cline.com](cheryl-cline.com)
 
