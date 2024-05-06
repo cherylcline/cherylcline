@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cheryl Cline</h1>
-<h3 align="center">A UX writer and editor based in Los Angeles</h3>
+<h3 align="center">A writer, editor and Drupal specialist based in Los Angeles</h3>
 
 - 🔭 I’m currently a content designer at [Expunge Assist](https://expungeassist.org/#/)
 
-- 👨‍💻 View my writing samples at [cheryl-cline.com](cheryl-cline.com)
+- 👨‍💻 View my work at [cheryl-cline.com](cheryl-cline.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
